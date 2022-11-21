@@ -1,3 +1,3 @@
 <?php
-$host="localhost";$user = "root";$pass = "follower1990";$db ="iqgamesbase";
+$host="localhost";$user = "root";$pass = "";$db ="iqgamesbase";
 ?>
