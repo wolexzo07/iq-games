@@ -1,0 +1,221 @@
+*{
+margin:0px;
+
+}
+.tush{
+	border:1px solid lightgray;
+	padding:10px;
+	text-transform:uppercase;
+	font-size:9pt;
+	font-weight:bold;
+	color:purple;
+	text-align:left;
+}
+.loh{
+	width:150px;
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+-o-border-radius:50%;
+-ms-border-radius:50%;
+}
+.boxbase{
+	padding:20px;
+	/**
+	background-color:aqua;
+	border:1px dashed green;
+	**/
+}
+.iconmenu{
+
+	font-size:50pt;
+	color:green;
+
+}
+.fontmenu{
+
+	width:170px;
+	font-size:15pt;
+}
+.hubmsg{
+	border:1px dashed green;
+	font-size:12pt;
+	color:green;
+	padding:15pt;
+	text-transform:capitalize;
+}
+.guo{
+	width:100%;
+	margin-top:10pt;
+}
+body{
+	background-attachment:fixed;
+	background-image:url("../img/bg11.jpg");
+
+}
+#des{
+	height:;
+	resize:none;
+}
+#txtt{
+	height:60px;
+	margin-top:15px;
+}
+.txt{
+	text-transform:uppercase;
+	margin-top:15px;
+}
+.upl{
+	padding:20px;
+	border:1px dashed black;
+	width:100%;
+	border-radius:10px;
+}
+#txp,#country,#state{
+height:50px;
+
+}
+.logme{
+	width:150px;
+	margin:15pt;
+}
+option{
+padding:15px;
+}
+.rc{
+	color:green;
+	font-size:16pt;
+	margin-top:10pt;
+}
+.fr{
+	margin-top:10pt;
+	height:;
+	width:100%;
+}
+#slect{
+	padding:;
+	height:50px;
+}
+
+#slect{
+	padding:15px;
+}
+
+
+.rframe{
+
+}
+.geb{
+margin-top:30pt;
+}
+
+body{
+background-color:green;
+/**
+background-image:url("../img/log.png");
+* **/
+}
+.place{
+overflow-x:scroll;
+background-color:white;
+/**
+padding-top:30px;
+padding-left:30px;
+padding-right:30px;
+***/
+padding-bottom:30px;
+opacity:0.9;
+}
+.dressme{
+	border:1px dashed black;
+	padding:20px;
+	margin-top:10pt;
+	margin-bottom:10pt;
+}
+#appbase{
+margin-top:50px;
+width:300px;
+}
+.pls{
+margin-top:30px;
+padding:20px;
+width:213px;
+height:80px;
+}
+.tutor{
+text-align:center;
+border:1px solid lightgray;
+padding:12px;
+margin-top:20px;
+margin-bottom:20px;
+font-weight:bold;
+border-radius:10px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+-o-border-radius:10px;
+-ms-border-radius:10px;
+background-color:aqua;
+}
+
+.tutoro{
+background-color:white;
+text-align:center;
+border:1px solid lightgray;
+padding:20px;
+margin-top:5px;
+font-weight:bold;
+}
+.spart{
+color:green;
+}
+.field{
+border:1px solid lightgray;
+padding:30px;
+border-radius:20px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+-o-border-radius:20px;
+-ms-border-radius:20px;
+}
+
+
+
+
+
+
+/****Pagination start here****/
+div.pagination {
+padding: 3px;
+margin: 3px;
+text-align:center;
+}
+
+div.pagination a {
+padding: 2px 5px 2px 5px;
+margin: 2px;
+border: 1px solid #AAAADD;
+
+text-decoration: none; /* no underline */
+color: #000099;
+}
+div.pagination a:hover, div.digg a:active {
+border: 1px solid #000099;
+
+color: #000;
+}
+div.pagination span.current {
+padding: 2px 5px 2px 5px;
+margin: 2px;
+border: 1px solid #000099;
+
+font-weight: bold;
+background-color: #000099;
+color: #FFF;
+}
+div.pagination span.disabled {
+padding: 2px 5px 2px 5px;
+margin: 2px;
+border: 1px solid #EEE;
+
+color: #DDD;
+}
